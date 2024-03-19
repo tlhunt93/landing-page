@@ -111,11 +111,11 @@ a, a:visited {
     text-align: center;
    
     
-}
+}*/
 
-p {
+/* p {
     width: 150px;
-} */
+}  */
 
 
 /* Third Section */
@@ -150,10 +150,50 @@ p {
 
 /* .flex-container-4 {
     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     height: 300px; 
-}  */
+} 
 
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 150px;
+    background-color: #3882f6;
+    border-radius: 20px;
+    gap: 20%;
+}
+
+.left-div {
+    
+}
+
+h3 {
+    margin-bottom: 0;
+    padding: 0;
+    color: #f9faf8;
+}
+
+.sect-4-p {
+    margin-top: 0;
+    padding: 0;
+    color: #e5e7eb;
+}
+
+.btn-div {
+    
+}
+
+.btn.two {
+    border: 2px solid white;
+} */
+
+
+
+/* Button css */
 .btn {
     background-color: #3882f6;
     color: #ffffff;
